@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Imshubhham
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on projects
+- 👋 Hi, I’m Shubhham
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Machine learning
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me shubhamkr93000@gamil.com
 
 <!---
